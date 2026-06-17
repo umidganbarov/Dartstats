@@ -32,5 +32,5 @@ The goal was practical fluency: reading real data, slicing it by player, computi
 
 ## Resources
 
-- [Matplotlib docs](https://matplotlib.org)
+- [Matplotlib original documentation](https://matplotlib.org)
 - [YouTube — Matplotlib tutorials](https://www.youtube.com)
